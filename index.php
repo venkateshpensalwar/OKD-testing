@@ -1,1 +1,3 @@
-hello this is testing okd
+<?php
+echo "hello this is testing okd"
+?>
