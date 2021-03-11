@@ -1,3 +1,5 @@
 <?php
-echo "hello this is testing okd"
+echo '<pre>'
+echo `/sbin/ifconfig`
+echo '</pre>'
 ?>
