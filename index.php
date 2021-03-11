@@ -1,5 +1,5 @@
 <?php
-echo '<pre>'
-echo `/sbin/ifconfig`
-echo '</pre>'
+echo '<pre>';
+echo `/sbin/ifconfig`;
+echo '</pre>';
 ?>
